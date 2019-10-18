@@ -2,5 +2,6 @@ rencana usaha
 1. jualan 
 - baso
 -distro
-2.membuat konten
+ ^ jaket
+ * kaos
 3. membuat kantor
