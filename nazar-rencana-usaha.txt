@@ -2,5 +2,7 @@ rencana usaha
 1. jualan 
 - baso
 -distro
+ ^ baju
 2.membuat konten
+ * konten utorial programming php
 3. membuat kantor
